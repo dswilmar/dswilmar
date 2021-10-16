@@ -1,6 +1,6 @@
 ### Olá mundo! :computer: :coffee: :bulb:
 <hr>
-<a href="https://www.linkedin.com/in/wilmards/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wilmards/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dswilmar&layout=compact&count_private=true)
 
