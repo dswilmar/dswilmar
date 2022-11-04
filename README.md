@@ -2,7 +2,7 @@
 <hr>
 <a href="https://www.linkedin.com/in/wilmards/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dswilmar&layout=compact&count_private=true)
+![Github Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=dswilmar&layout=compact&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dswilmar&langs_count=6))
 
 <!--
 **dswilmar/dswilmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
